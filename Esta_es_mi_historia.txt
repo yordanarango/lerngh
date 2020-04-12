@@ -8,7 +8,7 @@ Tengo dolor de espalda.
 
 Mi papá es Hernan.
 
-Mi mamá es Gloria.
+Mi mamá es Gloria Jiménez.
 
 Soy ambiental
 
@@ -18,3 +18,4 @@ Trabajo en Siata y en la Nacho
 
 Viajo cada ocho días
 
+Mi abuelo Miguel
