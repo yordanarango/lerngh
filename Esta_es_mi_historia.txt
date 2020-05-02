@@ -26,3 +26,5 @@ Rama header
 
 Rama footer
 
+Footer2
+
